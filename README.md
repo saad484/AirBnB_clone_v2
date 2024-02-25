@@ -37,7 +37,7 @@ The first step that we need to build is "the console" or the command interpreter
 
 This storage engine will give us an abstraction between “My object” and “How they are stored and persisted”.
 
-You can find this in: [AirBnB clone - The console](https://github.com/luismvargasg/AirBnB_clone)
+You can find this in: [AirBnB clone - The console](https://github.com/saad484/AirBnB_clone)
 
 For the second part of the project we should build the database connection through SQLAlchemy, the ORM of Python.
 
