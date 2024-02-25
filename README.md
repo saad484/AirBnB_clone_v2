@@ -78,7 +78,7 @@ This program was made and tested using Ubuntu 14.04.3 LTS and Python 3.4.3 So we
 **Luis Miguel Vargas**
 
 * [Github @saad484](https://github.com/saad484)
-* [LinkedIn - Luis Miguel Vargas](https://www.linkedin.com/in/saad484/)
+* [LinkedIn - Saad AIDDI](https://www.linkedin.com/in/saad484/)
 
 ## License
 
